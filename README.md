@@ -14,3 +14,6 @@ train a CNN to classify images from cifar
 # pytorch/
 ## transfer-learning-pytorch
 train a pre-trained model to classify the cat and dog images in pytorch
+
+## sentiment_RNN
+practice sentiment analysis with an RNN
