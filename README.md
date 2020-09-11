@@ -17,3 +17,6 @@ train a pre-trained model to classify the cat and dog images in pytorch
 
 ## sentiment_RNN
 practice sentiment analysis with an RNN
+
+# opencv_face_detect/
+Use OpenCV dnn module with CPU, GPU, VPU for face detection.
